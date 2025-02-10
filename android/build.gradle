@@ -1,4 +1,4 @@
-group = "id.roufroufrouf.flutter_interactive_keyboard"
+group = "com.ujiboo.flutter_interactive_keyboard"
 version = "1.0-SNAPSHOT"
 
 buildscript {
@@ -25,7 +25,7 @@ apply plugin: "com.android.library"
 apply plugin: "kotlin-android"
 
 android {
-    namespace = "id.roufroufrouf.flutter_interactive_keyboard"
+    namespace = "com.ujiboo.flutter_interactive_keyboard"
 
     compileSdk = 35
 
